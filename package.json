@@ -1,16 +1,24 @@
 {
-  "name": "1",
+  "name": "making_your_first_api_and_page_assignment_1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashank-Venkatesh/making_your_first_api_and_page_assignment_1.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shashank-Venkatesh/making_your_first_api_and_page_assignment_1/issues"
+  },
+  "homepage": "https://github.com/Shashank-Venkatesh/making_your_first_api_and_page_assignment_1#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.1",
-    "node": "^20.18.1",
-    "nodemon": "^3.1.7"
+    "express": "^4.21.2"
   }
 }
